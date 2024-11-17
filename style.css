@@ -7,7 +7,7 @@ body{
     align-items: center;
     margin: 0;
     width: 100%;
-    height: 200vh;
+    height: 100vh;
     font-family: "Young Serif", serif;  
 }
 
@@ -15,6 +15,7 @@ main{
     background-color: white;
     border-radius: 15px;
     width: 50%;
+    margin-top: 50em;
 }
 
 .contain{
@@ -79,6 +80,7 @@ ul{
 .instructions-container{
     padding-top: 0.8em;
     color: hsl(24, 5%, 18%);
+    border-bottom: 1px solid grey;
 }
 
 .instructions-container ul{
@@ -104,11 +106,10 @@ ul{
     width: 100%;
     border-collapse: collapse;
     color: hsl(24, 5%, 18%);
-    
 }
 
 .nutrition-container td{
-    border-top: 1px solid black;
+    border-top: 0.5px solid black;
     padding: 0.8em;
 }
 
