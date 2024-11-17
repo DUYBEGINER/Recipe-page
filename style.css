@@ -7,7 +7,7 @@ body{
     align-items: center;
     margin: 0;
     width: 100%;
-    height: 100vh;
+    height: 100%;
     font-family: "Young Serif", serif;  
 }
 
@@ -15,7 +15,7 @@ main{
     background-color: white;
     border-radius: 15px;
     width: 50%;
-    margin-top: 50em;
+    margin-top: 20em;
 }
 
 .contain{
