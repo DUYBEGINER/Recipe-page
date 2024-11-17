@@ -38,6 +38,7 @@ ul{
 
 .preparation-container{
     background-color:  hsl(330, 100%, 98%);
+    border-radius: 15px;
     padding: 0.2em 1em;
     font-family: "Outfit", serif;
 }
@@ -49,7 +50,6 @@ ul{
 .preparation-container ul{
     list-style-position: outside; 
     text-indent: 1em; 
-    
 }
 
 .preparation-container li {
@@ -64,7 +64,8 @@ ul{
 }
 
 .ingredients-container ul{
-    list-style-position: outside; 
+    list-style-position: outside;  
+    list-style-type: square;
     padding-left: 1em;
 }
 
